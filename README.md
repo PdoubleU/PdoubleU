@@ -1,12 +1,15 @@
 #  Hi, this is Peter! 
-I'm React/ReactNative/TS Engineer, CS student
 
-You can contact me by:
-
+## I'm Software Engineer && CS student
 
 🔭 I’m currently working on @react-native-notificated
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on open source projects
+
+🌱 You can trust me when there is a job to do in React/React Native/TypeScript
+
+📖 I'm learning other things as well, such as C#, Angular, and PostgreSQL.
+
+👯 I’m looking to collaborate on open-source projects
+
 📫 How to reach me: 
 
 * X (Twitter): https://twitter.com/piotr_gerwazy
