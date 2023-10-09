@@ -2,7 +2,7 @@
 
 ## I'm Software Engineer && CS student
 
-🔭 I’m currently working on @react-native-notificated
+🔭 I’m currently working on [@react-native-notificated](https://github.com/TheWidlarzGroup/react-native-notificated)
 
 🌱 You can trust me when there is a job to do in React/React Native/TypeScript
 
