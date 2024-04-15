@@ -14,4 +14,4 @@
 
 * X (Twitter): https://twitter.com/piotr_gerwazy
 * LinkedIn: https://www.linkedin.com/in/piotr-witasik/
-* Email: piotrwitasik1988@gmail.com
+* Email: p.s.witasik@gmail.com
