@@ -1,6 +1,6 @@
 #  Hi, this is Peter! 
 
-## I'm Software Engineer && CS student
+## I'm Software Engineer
 
 🔭 I’m currently working on [@react-native-notificated](https://github.com/TheWidlarzGroup/react-native-notificated)
 
